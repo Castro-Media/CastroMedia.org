@@ -6,7 +6,7 @@ title: Home
 ## Uniting Voices To Amplify Change
  *We are a flat anarcho-syndicalist organization where every member has the same power to contribute, vote on decisions, and review content before it goes out. We are working towards having monthly public meetings whose agenda and minutes will be posted on Substack.*
 
-<img src="/assets/images/logo.jpg" class="image">
+<img src="/assets/images/banner.jpg" class="image">
 
 ## Programs
 

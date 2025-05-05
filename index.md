@@ -52,7 +52,7 @@ title: Home
 
   <h2><a href="/updates">Updates:</a></h2>
 
-  {% assign sorted_pages = site.pages | sort: "order" %}
+  {% assign sorted_pages = site.pages | sort: "date" | reverse %}
   {% assign counter = 0 %}
   {% for page in sorted_pages %}
     {% if page.path contains "updates/" and page.path != "updates/index.md" %}

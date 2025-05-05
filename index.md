@@ -64,6 +64,6 @@ title: Home
       </p>
     {% endif %}
   {% endfor %}
-  <p class="text-right"><a href="/updates/">View all updatse →</a></p>
+  <p class="text-right"><a href="/updates/">View all updates →</a></p>
 
   </div><!--/row-->

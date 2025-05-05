@@ -35,7 +35,7 @@ title: Home
         {% if page.thumbnail %}
           <img src="{{ page.thumbnail }}" alt="{{ page.title }} image" class="photo">
         {% endif %}
-        {% if page.status %}<p><em>Status:</em> {{ page.status }}</p>{% endif %}
+        {% if page.status %}<p><b>Status:</b> {{ page.status }}</p>{% endif %}
         {% if page.blurb %}<p>{{ page.blurb }}</p>{% endif %}
         {% if page.donate_link %}
           <p><a class="btn btn-primary" href="{{ page.donate_link }}">Donate Now</a></p>
@@ -60,7 +60,7 @@ title: Home
     {% if page.path contains "updates/" and page.path != "updates/index.md" %}
       <p>
         <a href="{{ page.url }}">{{ page.title }}</a><br>
-        <small><em>{{ page.date | date: "%B %d, %Y" }}</em></small>
+        <small><b>{{ page.date | date: "%B %d, %Y" }}</b></small>
       </p>
     {% endif %}
   {% endfor %}

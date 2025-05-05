@@ -16,8 +16,9 @@ order: 2
   
 *What kind of camera/microphone does your favorite podcaster use?*  
   
-The goal of the lookbook is to interview organizations and individuals who are doing the work of building community and creating culture. We will ask them about their process, their tools, and their successes and failures. The goal is to create a resource for people who want to do similar work in their own communities.
+The goal of the lookbook is to interview organizations and individuals who are doing the work of building community and creating culture. We will ask them about their process, their tools, and their successes and failures. The goal is to create a resource for people who want to do similar work in their own communities.  
 
+In particular, this project will focus on free, open-source alternatives to rentier-based software.  
 
 ## 🛠️ Project Progress: Lookbook
 

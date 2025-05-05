@@ -21,12 +21,12 @@ title: Home
 
   <div markdown="0" class="row">
 
-  <h2><a href="/program">Programs</a></h2>
+  <h2><a href="/program">Programs:</a></h2>
 
   {% assign sorted_pages = site.pages | sort: "order" %}
   {% assign counter = 0 %}
   {% for page in sorted_pages %}
-    {% if page.path contains "promgram/" and page.path != "promgram/index.md" %}
+    {% if page.path contains "program/" and page.path != "program/index.md" %}
       <div class="col-md-4">
         <h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
         {% if page.thumbnail %}
@@ -41,7 +41,7 @@ title: Home
       </div><!--/col-md-4-->
     {% endif %}
   {% endfor %}
-  <p class="text-right"><a href="/outposts/">View all outposts →</a></p>
+  <p class="text-right"><a href="/program/">View all programs →</a></p>
 
   </div><!--/row-->
 
@@ -50,7 +50,7 @@ title: Home
 
   <div markdown="0" class="row">
 
-  <h2><a href="/program">Programs</a></h2>
+  <h2><a href="/updates">Updates:</a></h2>
 
   {% assign sorted_pages = site.pages | sort: "order" %}
   {% assign counter = 0 %}
@@ -62,6 +62,6 @@ title: Home
       </p>
     {% endif %}
   {% endfor %}
-  <p class="text-right"><a href="/outposts/">View all outposts →</a></p>
+  <p class="text-right"><a href="/updates/">View all updatse →</a></p>
 
   </div><!--/row-->

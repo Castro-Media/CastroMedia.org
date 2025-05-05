@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Beneficial Merch ✊🎁"
-status: "🚧 Program is under Construction 🚧"
+status: "🚧 Under Construction 🚧"
 blurb: "We are working on setting up an online store where contributors can post their own designs and have the proceeds from sales of that design go to a cause of their choice. This can be stickers, shirts, mugs, or any other merch that can be printed on demand. The goal is to create a platform where contributors can share their designs and support causes they care about."
 order: 6
 ---

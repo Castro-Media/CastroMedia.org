@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 🤑 Klept 🤑
-status: "🚧 Program is under Construction 🚧"
+title: Klept 🤑
+status: "🚧 Under Construction 🚧"
 blurb: "Tracking the rising kleptocracy and spectacular instances of oligarchs stealing from the people."
 order: 3
 ---
 
-## 🤑 Klept 🤑
+## Klept 🤑
 
 Tracking the rising kleptocracy and spectacular instances of oligarchs stealing from the people.
 

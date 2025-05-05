@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Social Murder Institute 💰🔪"
-status: "🚧 Program is under Construction 🚧"
+status: "🚧 Under Construction 🚧"
 blurb: "This new institute researches and publishes data and analysis attributing harms in society to the organizations and policies directly responsible for them."
 order: 4
 ---

@@ -6,6 +6,9 @@ title: Home
 <div class="container">
   <div class="row">
     <div class="col">
+
+      <h1><a href="https://castromedia.org">CastroMedia.org</a></h1>
+
       <h2>Uniting Voices To Amplify Change</h2>
       <p><i>We are a flat anarcho-syndicalist organization where every member has the same power to contribute, vote on decisions, and review content before it goes out. We are working towards having monthly public meetings whose agenda and minutes will be posted on Substack.</i></p>
       

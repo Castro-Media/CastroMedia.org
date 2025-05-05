@@ -74,8 +74,12 @@ h4{
 .photo{
     margin-top: 2rem;
     margin-bottom: 2rem;
-    max-width: 400px;
+    width: 400px;
+    max-width: 100%;
 }
 .text-right{
     text-align: right;
+}
+img{
+    max-width: 100%;
 }

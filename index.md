@@ -33,7 +33,6 @@ title: Home
           <img src="{{ page.thumbnail }}" alt="{{ page.title }} image" class="photo">
         {% endif %}
         {% if page.status %}<p><em>Status:</em> {{ page.status }}</p>{% endif %}
-        {% if page.location %}<p><em>Location:</em> {{ page.location }}</p>{% endif %}
         {% if page.blurb %}<p>{{ page.blurb }}</p>{% endif %}
         {% if page.donate_link %}
           <p><a class="btn btn-primary" href="{{ page.donate_link }}">Donate Now</a></p>

@@ -5,8 +5,6 @@ title: Programs
 
 ## Programs:
 
----
-
 <div markdown="0">
 
 {% assign sorted_pages = site.pages | sort: "order" %}

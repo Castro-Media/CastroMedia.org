@@ -12,7 +12,7 @@ title: Home
       <h2>Uniting Voices To Amplify Change</h2>
       <p><i>We are a flat anarcho-syndicalist organization where every member has the same power to contribute, vote on decisions, and review content before it goes out. We are working towards having monthly public meetings whose agenda and minutes will be posted on Substack.</i></p>
       
-      <img src="/assets/images/banner.jpg" class="image">
+      <img src="/assets/images/castro.jpg" class="image">
 
       <h2>Mission</h2>
       

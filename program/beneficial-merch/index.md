@@ -2,7 +2,7 @@
 layout: default
 title: "Beneficial Merch ✊🎁"
 status: "✅ Program is live!"
-blurb: "We operate an online store where contributors can post their own designs and have the proceeds from sales of that design go to a cause of their choice. This can be stickers, shirts, mugs, or any other merch that can be printed on demand. The goal is to create a platform where contributors can share their designs and support causes they care about."
+blurb: "We operate an online store where contributors can post their own designs and have the profits from sales of that design go to a cause of their choice. This can be stickers, shirts, mugs, or any other merch that can be printed on demand. The goal is to create a platform where contributors can share their designs and support causes they care about."
 order: 6
 ---
 
@@ -10,7 +10,7 @@ order: 6
 
 [Shop.CastroMedia.org](https://shop.castromedia.org)
 
-We operate an online store where contributors can post their own designs and have the proceeds from sales of that design go to a cause of their choice. This can be stickers, shirts, mugs, or any other merch that can be printed on demand. The goal is to create a platform where contributors can share their designs and support causes they care about.  
+We operate an online store where contributors can post their own designs and have the profits from sales of that design go to a cause of their choice. This can be stickers, shirts, mugs, or any other merch that can be printed on demand. The goal is to create a platform where contributors can share their designs and support causes they care about.  
   
 These will also be included in the online stores on various social media apps so that people can link them in their video to support a cause they care about. The reason being that these kinds of fundraisers are often sketchy and untrustworthy. We want to create a platform where people can feel safe and secure in their purchases, knowing that the proceeds are actually going to a cause they care about, sponsored by known figures in the community who can vouch for and supervise the process.  
   

@@ -11,6 +11,8 @@ title: Home
 
       <h2>Uniting Voices To Amplify Change</h2>
       <p><i>We are a flat anarcho-syndicalist organization where every member has the same power to contribute, vote on decisions, and review content before it goes out. We are working towards having monthly public meetings whose agenda and minutes will be posted on Substack.</i></p>
+
+      <a href="https://www.gofundme.com/f/aucfwq-support-castro-media-amplify-underrepresented-voices" class="btn btn-block btn-success">GoFundMe: Support Castro Media's all-volunteer mission.</a>
       
       <img src="/assets/images/castro.jpg" class="image">
 

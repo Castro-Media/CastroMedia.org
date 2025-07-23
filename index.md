@@ -32,7 +32,7 @@ title: Home
   {% assign counter = 0 %}
   {% for page in sorted_pages %}
     {% if page.path contains "program/" and page.path != "program/index.md" %}
-      <div class="col-md-4">
+      <div class="col-12">
         <h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
         {% if page.thumbnail %}
           <img src="{{ page.thumbnail }}" alt="{{ page.title }} image" class="photo">

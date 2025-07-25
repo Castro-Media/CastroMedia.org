@@ -9,6 +9,12 @@ title: Home
 
       <h1><a href="https://castromedia.org">CastroMedia.org</a></h1>
 
+      <div class="socials">
+        <a href="https://castromedia.org/" class="btn btn-primary"><i class="fas fa-house"></i></a>
+        <a href="https://www.youtube.com/@Castro-Media" class="btn btn-youtube"><i class="fab fa-youtube"></i></a>
+        <a href="https://www.tiktok.com/@castromedia.org" class="btn btn-tiktok"><i class="fab fa-tiktok"></i></a>
+      </div>
+
       <h2>Uniting Voices To Amplify Change</h2>
       <p><i>We are a flat anarcho-syndicalist organization where every member has the same power to contribute, vote on decisions, and review content before it goes out. We are working towards having monthly public meetings whose agenda and minutes will be posted on Substack.</i></p>
 
